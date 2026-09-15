@@ -1,0 +1,6 @@
+{
+  "name": "Vaidh Imran Clinic",
+  "description": "Vaidh Imran Clinic in Siwan, Bihar provides Ayurvedic sexual health consultation in a private and respectful clinical setting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
